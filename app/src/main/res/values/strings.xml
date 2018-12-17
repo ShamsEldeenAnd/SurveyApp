@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="i_m_busy">I\'m Busy</string>
+    <string name="help_us">Help Us</string>
+    <string name="comment">Comment</string>
+    <string name="phone">Phone*</string>
+    <string name="email">Email*</string>
+    <string name="leave_contact">Please Leave Your Contact Information</string>
+    <string name="experience">Experience</string>
+    <string name="value">Value</string>
+    <string name="cost">Cost</string>
+    <string name="help">Help</string>
+    <string name="response_time">Response Time</string>
+    <string name="what_likes">What did you like?</string>
+    <string name="are_happy">Happy With Our Service?</string>
+    <string name="submit">Submit</string>
+    <string name="bye">Bye</string>
+</resources>
